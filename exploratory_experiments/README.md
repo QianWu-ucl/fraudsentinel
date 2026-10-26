@@ -1,0 +1,1 @@
+This folder contains early prototypes, failed baseline attempts, and exploratory scripts. They are kept here to demonstrate the iterative development process and problem-solving journey of this project. The final working pipeline is located in the src/ folder.

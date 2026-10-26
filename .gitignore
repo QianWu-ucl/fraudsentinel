@@ -1,0 +1,5 @@
+*.csv
+data/
+.env
+.DS_Store
+Plan.md
